@@ -1,8 +1,0 @@
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\bin\Debug\AreaAndCirrcumferenceOfCircle.exe.config
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\bin\Debug\AreaAndCirrcumferenceOfCircle.exe
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\bin\Debug\AreaAndCirrcumferenceOfCircle.pdb
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\obj\Debug\AreaAndCirrcumferenceOfCircle.csproj.AssemblyReference.cache
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\obj\Debug\AreaAndCirrcumferenceOfCircle.csproj.SuggestedBindingRedirects.cache
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\obj\Debug\AreaAndCirrcumferenceOfCircle.csproj.CoreCompileInputs.cache
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\obj\Debug\AreaAndCirrcumferenceOfCircle.exe
-C:\Users\SaiPrasanna\source\repos\AreaAndCirrcumferenceOfCircle\AreaAndCirrcumferenceOfCircle\obj\Debug\AreaAndCirrcumferenceOfCircle.pdb
